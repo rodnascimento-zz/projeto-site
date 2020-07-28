@@ -6,6 +6,9 @@
 body{
     background-color: chocolate;
 }
+img.lado{
+    float: right;
+}
 
 main{
     background-color: darkviolet;
